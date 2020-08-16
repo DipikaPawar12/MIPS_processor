@@ -39,6 +39,6 @@
 
 ---
 
-| [Aanshi Patwari](https://github.com/aanshi18)                                                                                                            | [Dipika Pawar](https://github.com/DipikaPawar12)                                                                                                            | [Miracle Rindani](https://github.com/mrindani)                                                                                                |
+| [Aanshi Patwari](https://github.com/aanshi18)                                                                                                            | [Dipika Pawar](https://github.com/DipikaPawar12)                                                                                                            | [Miracle Rindani](https://github.com/mrindani)                                                                                                | [Akshay Bhimani](https://github.com/AkshayBhimani) |
 
  
